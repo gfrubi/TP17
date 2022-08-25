@@ -9,3 +9,6 @@
 3. Graficando con [Matplotlib](http://www.matplotlib.org) (G. Rubilar).
 4. Scipy: librerı́a de funciones y métodos de uso cientı́fico (funciones especiales, integración, optimización, procesamiento de señales, álgebra lineal, estadı́stica, etc.) (S. Vogt-Geisse).
 5. Uso de Python para el tratamiendo de datos cientı́ficos (E. Vöhringer-Martinez).
+
+
+El repositorio de la última versión de este curso está disponible es [este repositorio](https://github.com/PythonUdeC/CPC21).
